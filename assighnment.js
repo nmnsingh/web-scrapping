@@ -27,14 +27,3 @@ let link = [...document.getElementsByClassName("field field--name-field-icone fi
 })
 obj["LINK"] = link[0];
 
-
-
-/***				OUTPUT                        *****
-{
-  "PUBLICATION DATE": "10/30/2020",
-  "BIDDING DATE": "10/30/2020",
-  "OBJECT": "Price Registration for a period of 12 months, for the purchase of galvanized clamps.",
-  "LINK": "http://portal6.pbh.gov.br/dom/iniciaEdicao.do?method=DetalheArtigo&pk=1235349"
-}
-
-*/
